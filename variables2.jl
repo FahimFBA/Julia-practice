@@ -1,0 +1,3 @@
+a = "Israt"
+
+# Output: "Israt"
